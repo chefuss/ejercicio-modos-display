@@ -1,0 +1,12 @@
+/* Lo primero que hay que hacer es establecer cómo vamos a trabajar con el tamaño de la caja.
+border-box o content-box? */
+
+/* Debemos establecer que nuestro contenedor no tenga más que 1080px de ancho, y que esté centrado horizontalmente. */
+
+/* En el header la navegación debe tener un item al lado del otro. */
+
+/* Main y Aside deben estar uno al lado del otro. */
+
+/* Las secciones dentro de main deben estar una abajo de la otra. */
+
+/* Para el resto seguir la imagen. */
